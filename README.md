@@ -2,7 +2,7 @@
 
 - HTML
 - CSS
-- SASS(SCSS)
+- SASS (SCSS)
 - BEM
 - JavaScript
 - Gulp
